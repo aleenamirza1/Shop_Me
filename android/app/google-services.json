@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360836707878",
+    "project_id": "hackpr-28268",
+    "storage_bucket": "hackpr-28268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360836707878:android:0a2d1d67d5291619ccd8e7",
+        "android_client_info": {
+          "package_name": "com.example.appecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHaC7UopGJqNpRA3p9-_Rb5zZVc1RiEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360836707878:android:a0e0f70e3073e5daccd8e7",
+        "android_client_info": {
+          "package_name": "com.example.hackpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHaC7UopGJqNpRA3p9-_Rb5zZVc1RiEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
